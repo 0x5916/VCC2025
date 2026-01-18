@@ -1,0 +1,7 @@
+from __init__ import (
+    CAM_INDEX,
+    TRIGGER_HEIGHT,
+    USE_MICROBIT,
+    MICROBIT_SERIAL_PORT,
+    MICROBIT_BAND_RATE
+)
